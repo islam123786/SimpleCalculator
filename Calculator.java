@@ -27,12 +27,9 @@ public class Calculator {
 		int AddResult = Add(val1, val2);
 		int SubResult = Substration(val2, val1);
 		int MulResult = Multiply(val1, val2);
-		
-		int x =30;
-		
+			
 
 	}
-	
 	
 
 }
